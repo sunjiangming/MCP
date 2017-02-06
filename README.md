@@ -5,7 +5,7 @@ This refer to 18 datasets used in the study "Applying Mondrian Cross-Conformal P
 BioActs.tar.part1</br>
 BioActs.tar.part2</br>
 </br>
-File name is target's name in Entrez ID.</br>
+The tar file contains 18 files. File name is actually target's name (Entrez ID).</br>
 Example:</br>
 Ambit_InChIKey  A(active)/N(inactive)</br>
 AADCDMQTJNYOSS-YPVXKFLCNA-N     A</br>
