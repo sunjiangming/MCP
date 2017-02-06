@@ -5,11 +5,11 @@ This refer to 18 datasets used in the study. You may need join the split files p
 
 ## activity outpus
 BioActs.tar.part1</br>
-BioActs.tar.part2
+BioActs.tar.part2</br>
 #example of head
-Ambit_InChIKey  A(active)/N(inactive)
+Ambit_InChIKey  A(active)/N(inactive)</br>
 AADCDMQTJNYOSS-YPVXKFLCNA-N     A</br>
-AADWBQLQKGQDIM-UHFFFAOYNA-N     A
+AADWBQLQKGQDIM-UHFFFAOYNA-N     A</br>
 
 ## compound's structure
 compound.smi.part1</br>
