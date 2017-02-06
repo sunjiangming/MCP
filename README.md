@@ -3,7 +3,7 @@ Applying Mondrian Cross-Conformal Prediction to Estimate Prediction Confidence o
 
 This refer to 18 datasets used in the study. You may need join the split files prior to any analysis.
 
-#Activity outpus
+#Activity output
 BioActs.tar.part1</br>
 BioActs.tar.part2</br>
 </br>
