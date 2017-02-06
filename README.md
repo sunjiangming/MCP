@@ -16,7 +16,7 @@ compound.smi.part1</br>
 compound.smi.part2</br>
 compound.smi.part3</br>
 compound.smi.part4</br></br>
-example:</br>
+Example:</br>
 AMBIT_InChIKey  AMBIT_InChI     AMBIT_SMILES</br>
 HAFSOLHTAKKOHZ-CMDGGOBGNA-N     InChI=1/C17H16N2O/c1-12-4-6-14(7-5-12)17(20)9-8-15-10-16(11-18)19(3)13(15)2/h4-10H,1-3H3/b9-8+  O=C(/C=C/C1=C(N(C(=C1)C#N)C)C)C2=CC=C(C=C2)C
 </br>GAWSSNLFMXRZOG-AEMIGZHMNA-N     InChI=1/C14H11N5O3/c20-13-6-5-10(19(21)22)7-9(13)8-15-18-14-16-11-3-1-2-4-12(11)17-14/h1-8,15H,(H2,16,17,18)/b9-8+/f/h16,18H    O=C1/C(=C/NNC=2NC=3C(N2)=CC=CC3)/C=C(N(=O)=O)C=C1
