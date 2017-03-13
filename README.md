@@ -1,5 +1,5 @@
 # MCCP
-This refer to 18 datasets that were extracted from the ExCAPE-DB database [1], a repository storing public available chemogenomics data. Signature descriptors [2] of heights 0-3 were generated for all compounds in ExCAPE-DB. You may join the split files prior to any analysis.
+This refer to 18 datasets that were extracted from the ExCAPE-DB database [1], a repository storing public available chemogenomics data. Structures and Signature descriptors [2] of heights 0-3 were generated for all compounds in ExCAPE-DB. You may join the split files prior to any analysis.
 
 ## Activity output
 BioActs.tar.part1</br>
