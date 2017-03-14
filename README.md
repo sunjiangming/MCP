@@ -38,5 +38,5 @@ Email_1: Jiangming.Sun at astrazeneca.com</br>
 Email_2: sunjiangming at gmail.com</br>
 
 Reference</br>
-[1] Sun, J.; Jeliazkova, N.; Chupakin, V.; Golib-Dzib, J.-F.; Engkvist, O.; Carlsson, L.; Wegner, J.; Ceulemans, H.; Georgiev, I.; Jeliazkov, V.; Kochev, N.; Ashby, T. J.; Chen, H., ExCAPE-DB: an integrated large scale dataset facilitating Big Data analysis in chemogenomics. Journal of Cheminformatics 2017, 9 (1), 17
+[1] Sun, J.; Jeliazkova, N.; Chupakin, V.; Golib-Dzib, J.-F.; Engkvist, O.; Carlsson, L.; Wegner, J.; Ceulemans, H.; Georgiev, I.; Jeliazkov, V.; Kochev, N.; Ashby, T. J.; Chen, H., ExCAPE-DB: an integrated large scale dataset facilitating Big Data analysis in chemogenomics. Journal of Cheminformatics 2017, 9 (1), 17</br>
 [2] Carbonell, P.; Carlsson, L.; Faulon, J.-L., Stereo Signature Molecular Descriptor. Journal of Chemical Information and Modeling 2013, 53 (4), 887-897.
