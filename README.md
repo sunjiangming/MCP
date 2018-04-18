@@ -1,5 +1,6 @@
 # MCCP
-This refer to 18 datasets that were extracted from the ExCAPE-DB database [1], a repository storing public available chemogenomics data. Structures and Signature descriptors [2] of heights 0-3 were generated for all compounds in ExCAPE-DB. You may join the split files prior to any analysis.
+This refer to 18 datasets that were extracted from the ExCAPE-DB database [1], a repository storing public available chemogenomics data. Structures and Signature descriptors [2] of heights 0-3 were generated for all compounds in ExCAPE-DB. You may join the split files prior to any analysis.</br>
+Codes are developed in a study on Mondrian Cross-Conformal Prediction [3].
 
 ## Activity output
 BioActs.tar.part1</br>
@@ -39,4 +40,5 @@ Email_2: sunjiangming at gmail.com</br>
 
 Reference</br>
 [1] Sun, J.; Jeliazkova, N.; Chupakin, V.; Golib-Dzib, J.-F.; Engkvist, O.; Carlsson, L.; Wegner, J.; Ceulemans, H.; Georgiev, I.; Jeliazkov, V.; Kochev, N.; Ashby, T. J.; Chen, H., ExCAPE-DB: an integrated large scale dataset facilitating Big Data analysis in chemogenomics. Journal of Cheminformatics 2017, 9 (1), 17</br>
-[2] Carbonell, P.; Carlsson, L.; Faulon, J.-L., Stereo Signature Molecular Descriptor. Journal of Chemical Information and Modeling 2013, 53 (4), 887-897.
+[2] Carbonell, P.; Carlsson, L.; Faulon, J.-L., Stereo Signature Molecular Descriptor. Journal of Chemical Information and Modeling 2013, 53 (4), 887-897.</br>
+[3] Sun, J.; et al. Applying Mondrian Cross-Conformal Prediction To Estimate Prediction Confidence on Large Imbalanced Bioactivity Data Sets. Journal of Chemical Information and Modeling 2017.
