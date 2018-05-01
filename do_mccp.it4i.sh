@@ -33,7 +33,7 @@ fi
 cd $wd
 mkdir -p $odir
 
-# conver to tab spererate file
+# convert to tab spererate file
 awk 'BEGIN{FS="[ ,\t]";OFS="\t"} {$1=$1;print $0;}' $3 > $odir/$3.tsv
 awk 'BEGIN{FS="[ ,\t]";OFS="\t"} {$1=$1;print $0;}' $2 > $odir/$2.tsv
 
